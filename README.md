@@ -5,6 +5,6 @@
   created as a lab assignment for the [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) 
   course offered by IBM (which is course 2 of the IBM Full Stack Developer Professional Certification Program).
   
-  
-  Deployed Website through Netlify ---> [](basic-conversions.netlify.app) 
+ 
+  Deployed Website through Netlify ---> basic-conversions.netlify.app 
   
